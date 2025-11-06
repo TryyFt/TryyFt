@@ -40,7 +40,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/TryyFt/TryyFt/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/TryyFt/TryyFt/output/snake.yml" alt="Snake animation" />
 
 
 ###
